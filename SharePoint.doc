@@ -1,0 +1,49 @@
+1. What is SharePoint?
+	A web-based collaboration platform for document management, storage, and team collaboration.
+
+2. What are the different types of SharePoint sites?
+	Team Site: Collaboration-focused.
+	Communication Site: For sharing content to a broader audience.
+	Document Center: For large document storage.
+	Records Center: For record management.
+	Hub Site: Links and unifies sites with common navigation.
+3. What is a SharePoint library?
+	A storage location for documents and files with features like versioning and metadata.
+
+4. What are content types in SharePoint?
+	Define metadata, templates, and behaviors for a particular type of content (e.g., documents, list 	items).
+
+5. What are Web Parts in SharePoint?
+	Reusable components added to pages to display or manage content (e.g., Document Library, List 	Web Parts).
+
+6. What is a SharePoint workflow?
+	Automated processes like document approval, task management, and content review.
+
+7. What are SharePoint Lists?
+	Collections of data organized in rows and columns (e.g., tasks, contacts).
+
+8. What is the difference between a SharePoint site collection and a site?
+	Site Collection: Group of websites sharing settings.
+	Site: Individual website within a site collection.
+9. What are the types of SharePoint authentication methods?
+	Windows Authentication: Uses Active Directory.
+	Forms-Based Authentication: Username/password login.
+	Claims-Based Authentication: Token-based system supporting multiple identity providers.
+10. What is the difference between SharePoint 2013, 2016, and SharePoint Online?
+	2013/2016: On-premises versions.
+	Online: Cloud-based, always up-to-date, integrates with Office 365.
+11. What is the purpose of SharePoint Designer?
+	A tool for customizing SharePoint sites, workflows, and content.
+
+12. What are some ways to manage permissions in SharePoint?
+	Permission Levels: Roles like Full Control, Read.
+	Groups: Assign permissions to user groups.
+	Unique Permissions: Break inheritance for specific items.
+13. Explain the concept of versioning in SharePoint.
+	Tracks document changes by storing different versions; includes major and minor versions.
+
+14. What is the SharePoint Content Database?
+	Stores all content (documents, lists, metadata) in a SharePoint farm.
+
+15. What are the key benefits of using SharePoint Online?
+	Cloud-based, always updated, integrates with Office 365, scalable, accessible anywhere.
