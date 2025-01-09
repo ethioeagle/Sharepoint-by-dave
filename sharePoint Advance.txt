@@ -1,0 +1,63 @@
+
+Here are advanced SharePoint interview questions with short answers:
+
+1. What is a SharePoint Farm?
+	A SharePoint farm is a collection of SharePoint servers working together, including web front-end servers, application servers, and database servers for scalability and high availability.
+
+2. What is SharePoint Hybrid?
+	SharePoint Hybrid allows seamless integration between on-premises SharePoint and SharePoint Online, enabling cross-environment collaboration and data sharing.
+
+3. What is a Content Type Hub?
+	A central location in SharePoint for managing and sharing content types (metadata, templates) across multiple site collections, ensuring consistency.
+
+4. What is Managed Metadata in SharePoint?
+	Managed Metadata refers to the hierarchical set of terms used to classify content in SharePoint, enabling consistent tagging and improved search.
+
+5. What is Business Connectivity Services (BCS)?
+	BCS connects external data sources (like SQL Server, web services) with SharePoint, allowing users to view and interact with external data within SharePoint.
+
+6. What is the SharePoint Search Service Application?
+	A service responsible for crawling, indexing, and searching content across SharePoint, enabling users to search documents, lists, and other data.
+
+7. What is the difference between Claims-Based Authentication and Classic Authentication?
+	Claims-Based Authentication: Uses identity tokens (e.g., from Active Directory or Azure AD).
+	Classic Authentication: Uses traditional NTLM or Kerberos authentication.
+8. What is a Site Column in SharePoint?
+	A reusable column definition in SharePoint that can be used across multiple lists and libraries for consistency in metadata and data collection.
+
+9. What are Service Applications in SharePoint?
+	Service Applications provide centralized functionality across web applications (e.g., search, user profiles, managed metadata), improving scalability and management.
+
+10. What is PowerShell used for in SharePoint?
+	PowerShell is used for automating administrative tasks like site creation, managing service applications, and performing bulk operations.
+
+11. What is Shredded Storage in SharePoint?
+	Shredded Storage stores only the changes made to a document rather than the entire document, optimizing storage space and improving performance.
+
+12. What is an App Catalog in SharePoint?
+	A repository for managing and storing custom SharePoint apps (farm solutions or SharePoint-hosted apps) that can be used across multiple site collections.
+
+13. What is SharePoint Online CDN (Content Delivery Network)?
+	A global network that caches and delivers content like images and videos from SharePoint Online, reducing latency and improving access speed.
+
+14. What is the SharePoint Timer Service?
+	A service that runs background tasks in SharePoint, such as running workflows, content indexing, and other scheduled jobs.
+
+15. What is the SharePoint Migration Tool (SPMT)?
+	A Microsoft tool that helps migrate content from on-premises SharePoint sites to SharePoint Online in Office 365.
+
+16. What is Power Automate (Flow) in SharePoint?
+	Power Automate (formerly Microsoft Flow) is a cloud-based service that automates workflows between various applications and services, including SharePoint.
+
+17. What is the difference between a SharePoint App and a SharePoint Solution (WSP)?
+	App: Self-contained with limited server access, can be installed from the App Catalog.
+	Solution (WSP): A server-side package with custom features, deployed to the SharePoint server.
+18. What is the role of ULS Logs in SharePoint?
+	Unified Logging Service (ULS) logs provide detailed error and diagnostic information to help troubleshoot issues in SharePoint.
+
+19. What are the advantages of using SharePoint Online over SharePoint Server?
+	SharePoint Online: Cloud-based, always up-to-date, scalable, and accessible from anywhere.
+	SharePoint Server: Requires on-premises infrastructure and manual updates.
+20. What is the difference between SharePoint Designer and Visual Studio?
+	SharePoint Designer: Used for customizing SharePoint sites, workflows, and basic features without code.
+	Visual Studio: Used for developing complex SharePoint solutions, including custom web parts, features, and apps
